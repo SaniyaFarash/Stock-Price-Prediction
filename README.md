@@ -10,3 +10,6 @@ In this project, I developed an artificial neural network using the Long Short-T
 - Keras
 - Matplotlib
 - Scikit-learn
+
+## Check out the colab file 
+https://colab.research.google.com/drive/181a6QA878e0JsZHU6UW6T8g3ArLhsBRI?usp=sharing 
